@@ -9,7 +9,7 @@ Issues and bug reports can be created via [Issues](https://github.com/haxor-musi
 
 # Release Notes
 
-## r1.0 - Date TBA
+## r1.0 - Date TBA XX.04.2021
 Initial version of the MIDI Remote Script for Maschine JAM.
 
 # Author
