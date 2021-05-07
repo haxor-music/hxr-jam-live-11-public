@@ -12,7 +12,7 @@ Issues and bug reports can be created via [Issues](https://github.com/haxor-musi
 ## r1.0 - Date 09.04.2021
 Initial version of the MIDI Remote Script for Maschine JAM.
 
-## r1.1 - Date TBA
+## r1.1 - Date 29.4.2021
 Added support for loading items from Ableton's UserLibrary.
 Added support for changing tracks color with JAMs Main Knob.
 
