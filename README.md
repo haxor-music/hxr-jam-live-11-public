@@ -10,11 +10,18 @@ Issues and bug reports can be created via [Issues](https://github.com/haxor-musi
 # Release Notes
 
 ## r1.0 - Date 09.04.2021
-Initial version of the MIDI Remote Script for Maschine JAM.
+* Initial version of the MIDI Remote Script for Maschine JAM.
 
 ## r1.1 - Date 29.4.2021
-Added support for loading items from Ableton's UserLibrary.
-Added support for changing tracks color with JAMs Main Knob.
+* Added support for loading items from Ableton's UserLibrary.
+* Added support for changing tracks color with JAMs Main Knob.
+
+## r1.2 - Date 7.12.2021
+* Bug fixes & refactoring
+
+## r1.3 - Date 28.9.2022
+* Added four new Japanese scales into PadMode
+* Added support for fine tempo adjustment with Shift button pressed
 
 # Author
 Please note that these scripts are not supported by Native Instruments. Scripts are hacked by Haxor from Haxor&Roxor and are provided without any support. Sure - I will make updates but no SLAs and stuff. :)
